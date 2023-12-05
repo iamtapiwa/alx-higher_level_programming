@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 # 0-read_file.py
-
+# Tapiwa Chiremba <tapsdoc23@gmail.com>
 """Defines a text file-reading function."""
 
 
